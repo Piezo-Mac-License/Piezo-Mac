@@ -1,7 +1,7 @@
 # Piezo – Simple Audio Recording
 
 <div align="center">  
-  <img src="https://static.macupdate.com/products/41057/l/piezo-logo.png?v=1669015867" width="250" alt="Piezo Logo"/>  
+  <img src="https://macx.ws/uploads/posts/2025-09/piezo.png" width="250" alt="Piezo Logo"/>  
 </div>  
 
 <br>  
